@@ -104,9 +104,9 @@
   <property name="setpermissions.nonposixmode" value="tryDosOrPass"/>
   <property name="deprecation" value="false"/>
   <property name="optimize" value="true"/>
-  <property name="javac.target" value="1.8"/>
-  <property name="javac.source" value="1.8"/>
-  <property name="javac.release" value="8"/>
+  <property name="javac.target" value="17.0.4.1"/>
+  <property name="javac.source" value="17.0.4.1"/>
+  <property name="javac.release" value="17"/>
   <property name="junit.filtertrace" value="off"/>
   <property name="junit.summary" value="no"/>
   <property name="test.haltonfailure" value="false"/>
