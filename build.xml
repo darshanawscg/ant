@@ -180,7 +180,7 @@
        ===================================================================
   -->
 
-  <selector id="needs.jdk9+">
+  <selector id="needs.jdk11">
     <filename name="${modules.package}/"/>
   </selector>
 
